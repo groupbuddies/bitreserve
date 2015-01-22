@@ -1,0 +1,32 @@
+AllCops:
+  Include:
+    - '**/Rakefile'
+    - '**/config.ru'
+    - '**/*.gemspec'
+  Exclude:
+    - 'db/**/*'
+    - 'config/**/*'
+    - 'script/**/*'
+    - 'bin/**/*'
+    - 'vendor/**/*'
+
+Metrics/LineLength:
+  Enabled: false
+
+Style/AlignParameters:
+  EnforcedStyle: with_fixed_indentation
+
+Style/ClassAndModuleChildren:
+  Enabled: false
+
+Style/Documentation:
+  Enabled: false
+
+Style/DotPosition:
+  EnforcedStyle: trailing
+
+Style/IfUnlessModifier:
+  Enabled: false
+
+Style/RegexpLiteral:
+  MaxSlashes: 0
