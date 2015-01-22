@@ -1,5 +1,6 @@
 # Bitreserve
 
+[![Gem Version](https://badge.fury.io/rb/bitreserve.svg)](http://badge.fury.io/rb/bitreserve)
 [![Build Status](https://travis-ci.org/groupbuddies/bitreserve.svg?branch=master)](https://travis-ci.org/groupbuddies/bitreserve)
 
 TODO: Write a gem description
