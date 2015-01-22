@@ -1,6 +1,4 @@
 require 'spec_helper'
-require 'webmock/rspec'
-WebMock.disable_net_connect!
 
 module Bitreserve
   describe Request do
