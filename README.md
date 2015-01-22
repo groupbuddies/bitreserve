@@ -3,6 +3,7 @@
 [![Gem Version](https://badge.fury.io/rb/bitreserve.svg)](http://badge.fury.io/rb/bitreserve)
 [![Build Status](https://travis-ci.org/groupbuddies/bitreserve.svg?branch=master)](https://travis-ci.org/groupbuddies/bitreserve)
 [![Code Climate](https://codeclimate.com/github/groupbuddies/bitreserve/badges/gpa.svg)](https://codeclimate.com/github/groupbuddies/bitreserve)
+[![Test Coverage](https://codeclimate.com/github/groupbuddies/bitreserve/badges/coverage.svg)](https://codeclimate.com/github/groupbuddies/bitreserve)
 
 TODO: Write a gem description
 
